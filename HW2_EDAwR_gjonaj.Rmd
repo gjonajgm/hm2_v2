@@ -141,6 +141,7 @@ In addition, compute and display the following statistics for Income and IncomeP
 
 
 ```{r summary_stats}
+hist.default(county_df)
 
 ```
 
